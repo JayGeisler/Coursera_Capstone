@@ -2,8 +2,8 @@ Edmonton Metro Project
 
 By Jayden Geisler
 
-In this project I attempt to map out new train lines in the city of Edmonton based on education and income of each neighborhood in the city of Edmonton as well as venue popularity values.  To get the venue popularity I use the foursquare API.
+Use data to map out where a new LRT line should go in Edmonton. I used income and education data for each neighbourhood. Use K-means to categorize neighbourhoods and then made a path algorithm to link them.  
 
-All Edmonton data is form the city of Edmonton open data portal.  
+All data is from the City of Edmonton open data portal.  
 
 URL: https://data.edmonton.ca/
